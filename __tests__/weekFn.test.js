@@ -1,4 +1,4 @@
-import { weekFn } from "./weekFn";
+import { weekFn } from "../weekFn";
 
 describe('Testing function weekFn', () => {
     it(' 1 = Понеділок', () => {
